@@ -23,7 +23,6 @@ import bandamusical.personas.Musico;
  */
 public class Ventana extends javax.swing.JFrame {
 
-    public Ventana Global = this;
     private Banda banda;
     private InstrumentoCreator insCrea;
     FabricaDeImagenes fabricaImagenes;
