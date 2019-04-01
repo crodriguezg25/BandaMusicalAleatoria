@@ -35,7 +35,7 @@ public class Ventana extends javax.swing.JFrame {
         banda = new Banda();
         insCrea = new InstrumentoCreator();
         fabricaImagenes = new FabricaDeImagenes();
-        jButton1.addActionListener(new ActionListener() {
+        botonContratarBanda.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 panelDeMusicos.removeAll();
                 llamarBanda();
@@ -52,16 +52,16 @@ public class Ventana extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jButton1 = new javax.swing.JButton();
+        botonContratarBanda = new javax.swing.JButton();
         jScrollPane1 = new javax.swing.JScrollPane();
         panelDeMusicos = new javax.swing.JPanel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jButton1.setText("Contratar Banda");
-        jButton1.addActionListener(new java.awt.event.ActionListener() {
+        botonContratarBanda.setText("Contratar Banda");
+        botonContratarBanda.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jButton1ActionPerformed(evt);
+                botonContratarBandaActionPerformed(evt);
             }
         });
 
