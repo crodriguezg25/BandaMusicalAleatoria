@@ -4,7 +4,7 @@
 Aplicativo que permite contratar una banda de forma aletoria para ir de fiesta !!!!
 
 # Diagrama de clases
-![alt text](http://drive.google.com/uc?export=view&id=1EhnHhSip37ig2LZz8kQPAoysZmxHM5P9)
+![alt text](http://drive.google.com/uc?export=view&id=17aDwIUSGcZryXB5tKa7KwRtTaYTe6L6s)
 
 
 # Diagrama de secuencia
