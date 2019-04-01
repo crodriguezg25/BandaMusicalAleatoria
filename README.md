@@ -1,6 +1,10 @@
+
 # Proyecto Banda musical aleatoria
 
 Aplicativo que permite contratar una banda de forma aletoria para ir de fiesta !!!!
+# Diagrama de clases
+
+![alt text](https://drive.google.com/file/d/14QV0DDhtzida1u7kgnBKCT7o1cWfoG6Y/view?usp=sharing)
 
 # Diagrama de secuencia
 
